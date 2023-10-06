@@ -1,11 +1,8 @@
 
   
+ 
 
-## EFI-OPENCORE-I5-6600K-GTX-1070-PASCAL
-
-  
-
-OPENCORE 0.8.5 EFI using I5 6600K and Nvidia GTX 1070
+# EFI OPENCORE 0.8.5 EFI using I5 6600K and Nvidia GTX 1070 - Ventura
 
   
 
