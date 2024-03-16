@@ -3,12 +3,11 @@
  
 
 # EFI OPENCORE 0.8.5 EFI using I5 6600K and Nvidia GTX 1070 - Ventura
-
   
+<p align="center">
+  <img width="300" src="https://github.com/clementp0/VENTURA-OC-0.8.5-EFI-OPENCORE-INTEL-GTX-1070-PASCAL/assets/15802129/ba8653c5-7704-4c80-94e4-84e69343ad01">
+</p>
 
-![nfo](https://cdn.discordapp.com/attachments/778932989693526038/1098634738614403232/EFI_1070.png)
-
-  
 
 **Latest tested macOS**: Ventura 13.2
 
